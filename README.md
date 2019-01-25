@@ -10,3 +10,6 @@ using BLE services directly.
 ## License
 
 The Myo Bluetooth Specification is licensed using the modified BSD license. For more details, please see LICENSE.txt.
+
+## references (Martin Šavc)
+https://developerblog.myo.com/myo-bluetooth-spec-released/
